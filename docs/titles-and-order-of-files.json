@@ -1,0 +1,14 @@
+{
+  "sortedPaths": [
+    "/",
+	"/introduction.md",
+    "/accounting.md",
+	"/fixed-assets.md",
+    "/supply-chain/",
+	"/supply-chain/items.md"
+  ],
+  "folderTitles": {
+    "/": "Home",
+    "/suply-chain": "Supply Chain"
+  }
+}
