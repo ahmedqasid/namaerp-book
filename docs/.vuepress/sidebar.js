@@ -7,5 +7,5 @@ export const SIDEBAR_CONFIG = {
             collapsible: true,
             children: ["/supply-chain/items.md"]
         }]
-    }, "/introduction.md", "/accounting.md", "/fixed-assets.md"],
+    }, "/introduction/introduction.md", "/accounting/accounting.md", "/fixed-assets/fixed-assets.md"],
 }
