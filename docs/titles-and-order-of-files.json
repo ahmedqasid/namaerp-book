@@ -1,9 +1,9 @@
 {
   "sortedPaths": [
     "/",
-	"/introduction.md",
-    "/accounting.md",
-	"/fixed-assets.md",
+	"/introduction/introduction.md",
+    "/accounting/accounting.md",
+	"/fixed-assets/fixed-assets.md",
     "/supply-chain/",
 	"/supply-chain/items.md"
   ],
